@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">My Memories"</string>
+    <string name="picture">Picture:"</string>
+    <string name="back">Back"</string>
+    <string name="takePhoto">Take a photo 📸"</string>
+    <string name="addPhoto">Add a photo"</string>
+
+</resources>
